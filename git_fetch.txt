@@ -1,0 +1,4 @@
+1.check branch
+2.checkout branch with branch name
+3.fetch
+4.pull
