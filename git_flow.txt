@@ -1,6 +1,7 @@
 1. changed file
 2. Check files -> modified or deleted or added
 3. Add files to stage -> git add . or filename
-4. commit file to your branch
-5. git push
-6. create PR
+4. Check file status
+5. commit file to your branch
+6. git push
+7. create PR
