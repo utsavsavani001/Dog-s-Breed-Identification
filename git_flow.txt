@@ -1,0 +1,6 @@
+1. changed file
+2. Check files -> modified or deleted or added
+3. Add files to stage -> git add . or filename
+4. commit file to your branch
+5. git push
+6. create PR
